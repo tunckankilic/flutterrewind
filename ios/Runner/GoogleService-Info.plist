@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBLeWlaFsRpzKR9tSir_D8c1UB676kIlFU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>767585567497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>site.tunckankilic.flutterrewind</string>
+	<key>PROJECT_ID</key>
+	<string>flutterewind</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterewind.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:767585567497:ios:57e1f6a04132b3da0f49d8</string>
+</dict>
+</plist>
